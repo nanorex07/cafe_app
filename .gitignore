@@ -1,3 +1,5 @@
-public/
-tmp/
+*.png
+*.jpg
+*.jpeg
+
 .env
